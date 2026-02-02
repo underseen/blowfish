@@ -1,27 +1,27 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "pt-br"
+languageName = "Português"
 weight = 1
-title = "Blowfish"
+title = "Strack Custom"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "Português (BR)"
+  isoCode = "pt-br"
   rtl = false
-  dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  dateFormat = "02/01/2006"
+  logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Strack Custom | Excelência, Confiança e Acabamento Impecável"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
+[params.author]
+name = "Strack Custom"
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
-#   links = [
+links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -69,7 +69,7 @@ title = "Blowfish"
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
-#     { whatsapp = "https://wa.me/phone-number" },
+{ whatsapp = "https://wa.me/+5511969216106" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
