@@ -3,3 +3,4 @@
 extended = true
 min = "0.141.0"
 max = "0.154.5"
+theme = ["github.com/nunocoracao/blowfish/v2"]
