@@ -6,7 +6,6 @@ theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://strackcustom.pages.dev/"
 defaultContentLanguage = "pt-br"
 languageCode = "pt-br"
-defaultContentLanguage = "pt-br"
 
 [languages]
   [languages.pt-br]
