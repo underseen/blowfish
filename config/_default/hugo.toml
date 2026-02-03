@@ -6,6 +6,13 @@ theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://strackcustom.pages.dev/"
 defaultContentLanguage = "pt-br"
 languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
+
+[languages]
+  [languages.pt-br]
+    languageName = "Português"
+    contentDir = "content"
+    weight = 1
 
 pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
